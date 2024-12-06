@@ -34,7 +34,6 @@ pub fn main() !void {
 
 
     // Step 5: Encode Data (To Be Implemented)
-
     // Step 6: Write to Output File (To Be Implemented)
 }
 
